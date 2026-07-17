@@ -1,12 +1,8 @@
-<div align="center">
+
 
 # 💬 Chattrix
 
 ### A Modern Full-Stack Real-Time & Offline Messaging Platform
-
-
-</div>
-
 
 
 **Chattrix** is a modern full-stack messaging application built with **Flutter** and **Node.js** that supports both **real-time** and **offline messaging**.
@@ -14,6 +10,10 @@
 The application combines secure authentication, local storage, and a scalable backend architecture to deliver a smooth messaging experience across different network conditions.
 
 Messages are stored locally using **Hive**, allowing users to continue using the application even without an internet connection. Once connectivity is restored, the application automatically synchronizes pending data with the server.
+
+## 🎥 Demo
+
+![Chattrix Demo](chat/assets/demo.gif)
 
 
 
